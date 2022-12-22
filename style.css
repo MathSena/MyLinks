@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url("images/bigben.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  border-radius: 20px;
+  width: 320px; 
+  
+}
+
+h1{
+  color: white;
+  margin-top:31px;
+  margin-bottom: 8px;
+}
+
+p{
+  color: white;
+}
+
+ul{
+  margin-top: 35px;
+}
+
+li{
+  margin-bottom: 18px;
+  list-style: none;
+}
+
+a{
+  background-color: limegreen;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  display: block;
+  border-radius:5px;
+}
+
+footer{
+  color: white;
+  padding: 10px;
+}
+
+.container{
+  background: rgba(0,0,0,0.5);
+  border-radius: 20px;
+  position: relative;
+  width: 320px;
+  text-align: center;
+  margin-top:41px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
